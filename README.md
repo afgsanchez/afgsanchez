@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://www.bing.com/images/create/ascii-art-web-de-programacic3b3n-de-los-ac3b1os-90-o-de-/1-66297a0d13594532b69177b168e3fca3?id=A6OpSJhMYR%2FpreyEBgVPCQ.TQPixD%2FKKa5urqO%2Bi76Mhw&view=detailv2&idpp=genimg&idpclose=1&thid=OIG4.9uUvgZGFMs64J_j9HlQS&form=SYDBIC></img>
 <!--
 **afgsanchez/afgsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
