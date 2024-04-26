@@ -1,5 +1,12 @@
-### Hi there 👋
-![DeepOverridE](_4d8bb8a0-b120-417c-8abd-758c0e719c6f.jpeg)
+                                                          Hi there 👋
+|<img src="https://tryhackme-badges.s3.amazonaws.com/DeepOverridE.png" alt="TryHackMe">| 
+|---|
+|![DeepOverridE](_4d8bb8a0-b120-417c-8abd-758c0e719c6f.jpeg)|
+
+
+
+
+
 <!--
 <img src="_4d8bb8a0-b120-417c-8abd-758c0e719c6f.jpeg" alt="DeepOverridE" width="50%" />
 -->
