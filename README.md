@@ -1,8 +1,8 @@
 ### Hi there 👋
-<!--
 ![DeepOverridE](_4d8bb8a0-b120-417c-8abd-758c0e719c6f.jpeg)
--->
+<!--
 <img src="_4d8bb8a0-b120-417c-8abd-758c0e719c6f.jpeg" alt="DeepOverridE" width="50%" />
+-->
 <!--
 **afgsanchez/afgsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
